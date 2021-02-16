@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App5.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+
+        </Frame>
+      
+        <Label x:Name="res" Text="Студентов:" FontSize="32" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" FontAttributes="Italic"></Label>
+            <Button Text="Добавить студента" FontSize="16" Clicked="Button_Clicked" VerticalOptions="Center" HorizontalOptions="Center"></Button>
+        <Button x:Name="Del" Text="Удалить студента" FontSize="16" Clicked="Del_Clicked" VerticalOptions="Center" HorizontalOptions="Center"></Button>
+
+
+    </StackLayout>
+
+</ContentPage>
