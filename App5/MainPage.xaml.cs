@@ -19,7 +19,7 @@ namespace App5
         private void Button_Clicked(object sender, EventArgs e)
         { 
            
-            res.Text ="Студентов: " + count.ToString();
+            
             count++;
             res.Text = "Студентов: " + count.ToString();
         }

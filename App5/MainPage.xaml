@@ -8,7 +8,7 @@
 
         </Frame>
       
-        <Label x:Name="res" Text="Студентов:" FontSize="32" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" FontAttributes="Italic"></Label>
+        <Label x:Name="res" Text="Студентов: 0" FontSize="32" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" FontAttributes="Italic"></Label>
             <Button Text="Добавить студента" FontSize="16" Clicked="Button_Clicked" VerticalOptions="Center" HorizontalOptions="Center"></Button>
         <Button x:Name="Del" Text="Удалить студента" FontSize="16" Clicked="Del_Clicked" VerticalOptions="Center" HorizontalOptions="Center"></Button>
 
