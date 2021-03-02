@@ -1,0 +1,14 @@
+C:\Users\Comatoznik\source\repos\Light\Light\Light\bin\Debug\netstandard2.0\Light.deps.json
+C:\Users\Comatoznik\source\repos\Light\Light\Light\bin\Debug\netstandard2.0\Light.dll
+C:\Users\Comatoznik\source\repos\Light\Light\Light\bin\Debug\netstandard2.0\ref\Light.dll
+C:\Users\Comatoznik\source\repos\Light\Light\Light\bin\Debug\netstandard2.0\Light.pdb
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\Light.csprojAssemblyReference.cache
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\Light.AssemblyInfoInputs.cache
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\Light.AssemblyInfo.cs
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\Light.csproj.CoreCompileInputs.cache
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\Light.dll
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\ref\Light.dll
+C:\Users\Comatoznik\source\repos\Light\Light\Light\obj\Debug\netstandard2.0\Light.pdb

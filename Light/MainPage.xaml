@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Light.MainPage">
+
+    <StackLayout x:Name="Background" >
+        <Button x:Name="Red" Text="Red" TextColor="Red" FontSize="24" Clicked="Red_Clicked" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Button x:Name="Yellow" Text="Yellow"  TextColor="Yellow" FontSize="24" Clicked="Yellow_Clicked" HorizontalOptions="Center" VerticalOptions="Center"></Button>
+        <Button x:Name="Green" Text="Green" TextColor="Green" FontSize="24" Clicked="Green_Clicked" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"> </Button>
+    </StackLayout>
+    
+</ContentPage>
