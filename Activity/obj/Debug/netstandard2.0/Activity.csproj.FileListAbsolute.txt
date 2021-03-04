@@ -1,0 +1,14 @@
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\Activity.csprojAssemblyReference.cache
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\Activity.AssemblyInfoInputs.cache
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\Activity.AssemblyInfo.cs
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\Activity.csproj.CoreCompileInputs.cache
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\Activity.dll
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\ref\Activity.dll
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\Activity.pdb
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\bin\Debug\netstandard2.0\Activity.deps.json
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\bin\Debug\netstandard2.0\Activity.dll
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\bin\Debug\netstandard2.0\ref\Activity.dll
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\bin\Debug\netstandard2.0\Activity.pdb
+C:\Users\Comatoznik\source\repos\Activity\Activity\Activity\obj\Debug\netstandard2.0\XamlC.stamp
