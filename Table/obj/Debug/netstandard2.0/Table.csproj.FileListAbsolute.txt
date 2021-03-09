@@ -1,0 +1,14 @@
+C:\Users\Comatoznik\source\repos\Table\Table\Table\bin\Debug\netstandard2.0\Table.deps.json
+C:\Users\Comatoznik\source\repos\Table\Table\Table\bin\Debug\netstandard2.0\Table.dll
+C:\Users\Comatoznik\source\repos\Table\Table\Table\bin\Debug\netstandard2.0\ref\Table.dll
+C:\Users\Comatoznik\source\repos\Table\Table\Table\bin\Debug\netstandard2.0\Table.pdb
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\Table.csprojAssemblyReference.cache
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\Table.AssemblyInfoInputs.cache
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\Table.AssemblyInfo.cs
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\Table.csproj.CoreCompileInputs.cache
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\Table.dll
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\ref\Table.dll
+C:\Users\Comatoznik\source\repos\Table\Table\Table\obj\Debug\netstandard2.0\Table.pdb

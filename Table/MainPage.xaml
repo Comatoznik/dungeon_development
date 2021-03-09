@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Table.MainPage"
+             Title="Футбольный матч">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="5"
+        x:Name="outerStack">
+           
+            <ScrollView>
+                <StackLayout Spacing="5" Margin="10">
+                    <StackLayout x:Name="Main" Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="100" Margin="15,0,0,0">
+                        <Image x:Name="img_ger" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/German_Empire_state_flag.svg/1599px-German_Empire_state_flag.svg.png"
+                               Aspect="AspectFill"
+                               WidthRequest="150"
+                               HeightRequest="100"
+                               HorizontalOptions="Start"
+                               VerticalOptions="Start"/>
+                        <Label Text="0" FontSize="40" x:Name="ger_count" VerticalOptions="Center"/>
+                        <Label Text=":" FontSize="40" x:Name="spacer" VerticalOptions="Center"/>
+                        <Label Text="0" FontSize="40" x:Name="ita_count" VerticalOptions="Center"/>
+                        <Image x:Name="img_ita" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Italy_%281861-1946%29_crowned.svg/1599px-Flag_of_Italy_%281861-1946%29_crowned.svg.png"
+                               Aspect="AspectFill"
+                               WidthRequest="150"
+                               HeightRequest="100"
+                               HorizontalOptions="End"
+                               VerticalOptions="End"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" Spacing="110" x:Name="buttons" HorizontalOptions="Center" VerticalOptions="Fill">
+                        <Button x:Name="Germany" Text="Germany" Clicked="Germany_Clicked" Margin="-20,0,0,0"></Button>
+                        <Button x:Name="Italy" Text="Italy" Clicked="Italy_Clicked" Margin="20,0,0,0"></Button>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" Margin="-15, 10, 0, 70" x:Name="reset_layout" HorizontalOptions="Center" VerticalOptions="Center">
+
+                        <Button x:Name="Reset" Text="Reset" Clicked="Reset_Clicked"></Button>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Fill" VerticalOptions="Fill">
+                        <Button x:Name="Switcher" Text ="Switcher" Clicked="Switcher_Clicked"></Button>
+                    </StackLayout>
+                    
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
