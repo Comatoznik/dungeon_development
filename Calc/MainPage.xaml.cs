@@ -26,7 +26,7 @@ namespace Calc
 
                 Page1 secondpage = new Page1();
                 Navigation.PushAsync(secondpage);
-                secondpage.Calculator(result);
+                secondpage.Calculator(a,b,result);
             }
             catch (FormatException)
             {
